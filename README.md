@@ -34,6 +34,7 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 - JavaScript ES6
 
 ## Screenshots
+<img width="946" alt="image" src="https://github.com/anilk-anusha/filmFinderApp/assets/130001836/b27062dd-4eb6-4daa-aeac-2e16fa97d1cf">
 
 
 ## Setup
