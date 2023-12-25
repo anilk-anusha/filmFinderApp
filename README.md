@@ -35,6 +35,7 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 ## Screenshots
 <img width="946" alt="image" src="https://github.com/anilk-anusha/filmFinderApp/assets/130001836/b27062dd-4eb6-4daa-aeac-2e16fa97d1cf">
+<img width="946" alt="image" src="https://github.com/anilk-anusha/filmFinderApp/assets/130001836/235bff8a-8e01-4b1d-9acd-70cec0cf23d3">
 
 
 ## Setup
